@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently a student/beginner
 
 <!--
 **svanik-m/svanik-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
